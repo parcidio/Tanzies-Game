@@ -6,3 +6,6 @@ As the gome progresses, the player has to make sure that he/ she wins the game b
 ## Libraries
 [react-confetti](https://www.youtube.com/watch?v=y47dAW89IAo)\
 [react-timer-hook](https://www.npmjs.com/package/react-timer-hook)
+
+## Tools
+This whole game was developed with React.Js
